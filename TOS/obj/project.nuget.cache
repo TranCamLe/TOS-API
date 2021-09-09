@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Za/k7FREab7K+oWlW3S3hwe7Iwklmg5WWY+Hf+dY7gEZjr940ppFweNWhbo1r4sjqYQm3NRQthYJXsAyHjPPSg==",
+  "success": true,
+  "projectFilePath": "D:\\Zenken Planet\\AWS\\Source\\API\\TOS-API\\TOS\\TOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.5\\microsoft.netcore.app.runtime.linux-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.5\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.5\\microsoft.netcore.app.host.linux-x64.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
